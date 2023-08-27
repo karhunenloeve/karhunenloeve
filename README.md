@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karhunenloeve.
 - 👀 I’m interested in programming & math.
-- 🌱 I’m currently learning algebraic persistence.
+- 🌱 I’m currently learning TDA.
 - 💞️ I’m looking to collaborate on ML.
 - 📫 How to reach me? E-mail.
