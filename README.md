@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ML.
 - 📫 How to reach me? E-mail.
 
- ### 📗 [This is me, have a look.](https://karhunenloeve.github.io/CurriculumVitae/curriculumVitae.pdf)
+ ### 📗 [This is my CV, have a look!](https://karhunenloeve.github.io/CurriculumVitae/curriculumVitae.pdf)
 
 ## 📃 Publications
 1. Luciano Melodia and Richard Lenz: [Homological Time Series Analysis of Sensor Signals from Power Plants](https://arxiv.org/abs/2106.02493). Machine Learning for Irregular Time Series. Machine Learning and Principles and Practice of Knowledge Discovery in Databases. In Michael Kamp, Irena Koprinska, Adrien Bibal et al. (ed.): Communications in Computer and Information Science. Springer Nature, Switzerland.
