@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on ML.
 - 📫 How to reach me? E-mail.
 
-:page_facing_up: [This is me, have a look.](https://karhunenloeve.github.io/CurriculumVitae/curriculumVitae.pdf)
+ ## 📗 [This is me, have a look.](https://karhunenloeve.github.io/CurriculumVitae/curriculumVitae.pdf)
 
-## Publications
+## 📃 Publications
 1. Luciano Melodia and Richard Lenz: [Homological Time Series Analysis of Sensor Signals from Power Plants](https://arxiv.org/abs/2106.02493). Machine Learning for Irregular Time Series. Machine Learning and Principles and Practice of Knowledge Discovery in Databases. In Michael Kamp, Irena Koprinska, Adrien Bibal et al. (ed.): Communications in Computer and Information Science. Springer Nature, Switzerland.
 2. Luciano Melodia and Richard Lenz: [Estimate of the Neural Network Dimension Using Algebraic Topology and Lie Theory](https://arxiv.org/abs/2004.02881). Image Mining. Theory and Applications VII. Pattern Recognition and Information Forensics. In Alberto Del Bimbo, Rita Cucchiara, Stan Sciaroff et al. (ed.): Lecture Notes in Computer Science. Springer Nature, Switzerland
 3. Luciano Melodia and Richard Lenz: [Persistent Homology as Stopping-Criterion for Voronoi Interpolation](https://arxiv.org/abs/1911.02922). Proceedings of the International Workshop on Combinatorial Image Analysis. In Tibor Lukić, Reneta Barneva, Valentin Brimkov et al. (ed.): Lecture Notes in Computer Science. Springer, Cham.
