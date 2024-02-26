@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ML.
 - 📫 How to reach me? E-mail.
 
- ### 📗 [This is my CV, have a look!](https://karhunenloeve.github.io/CurriculumVitae/curriculumVitae.pdf)
+ ### 📗 [CV](https://karhunenloeve.github.io/CurriculumVitae/curriculumVitae.pdf)
 
 ## 📃 Papers
 1. Luciano Melodia (2023): [Notes on Simplicial and Singular Homology](https://karhunenloeve.github.io/TopoHom/main.pdf). Seminar Topics in Topology, Friedrich-Alexander Universität Erlangen-Nürnberg, Preprint.
