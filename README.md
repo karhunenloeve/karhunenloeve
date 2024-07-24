@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @karhunenloeve.
 - 👀 I’m interested in programming & math.
 - 🌱 I’m currently learning TDA.
-- 💞️ I’m looking to collaborate on ML.
+- 💞️ I’m looking to collaborate on homology theory.
 - 📫 How to reach me? E-mail.
 
  ### 📗 [CV](https://karhunenloeve.github.io/CurriculumVitae/curriculumVitae.pdf)
