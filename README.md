@@ -7,7 +7,7 @@
  ### 📗 [CV](https://karhunenloeve.github.io/CurriculumVitae/curriculumVitae.pdf)
 
 ## 📃 Papers
-1. Luciano Melodia (2024): [Algebraic and Topological Persistence](). Bachelor Thesis supervised by Prof. Ph.D. Kang Li, Library of the Friedrich-Alexander Universität Erlangen-Nürnberg.
+1. Luciano Melodia (2024): [Algebraic and Topological Persistence](). Bachelor Thesis in Mathematics supervised by Prof. Ph.D. Kang Li, Library of the Friedrich-Alexander Universität Erlangen-Nürnberg.
 1. Luciano Melodia (2023): [Notes on Simplicial and Singular Homology](https://karhunenloeve.github.io/TopoHom/main.pdf). Graduate Seminar on Topics in Topology, Friedrich-Alexander Universität Erlangen-Nürnberg.
 1. Luciano Melodia and Richard Lenz (2022): [Homological Time Series Analysis of Sensor Signals from Power Plants](https://arxiv.org/abs/2106.02493). Machine Learning for Irregular Time Series. Machine Learning and Principles and Practice of Knowledge Discovery in Databases. In Michael Kamp, Irena Koprinska, Adrien Bibal et al. (ed.): Communications in Computer and Information Science. Springer Nature, Switzerland.
 1. Luciano Melodia and Richard Lenz(2021): [Estimate of the Neural Network Dimension Using Algebraic Topology and Lie Theory](https://arxiv.org/abs/2004.02881). Image Mining. Theory and Applications VII. Pattern Recognition and Information Forensics. In Alberto Del Bimbo, Rita Cucchiara, Stan Sciaroff et al. (ed.): Lecture Notes in Computer Science. Springer Nature, Switzerland
