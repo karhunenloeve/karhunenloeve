@@ -7,6 +7,7 @@
  ### 📗 [CV](https://karhunenloeve.github.io/CurriculumVitae/curriculumVitae.pdf)
 
 ## 📃 Papers
+1. Luciano Melodia (2025): [Beschränkte Fredholmoperatoren und deren Fredholmindex](). Graduate Seminar on Spectral Flow in Functional Analysis, Friedrich-Alexander Universität Erlangen-Nürnberg.
 1. Luciano Melodia (2024): [Algebraic and Topological Persistence](https://karhunenloeve.github.io/BscMath/main.pdf). Bachelor Thesis in Mathematics supervised by Prof. Ph.D. Kang Li, Library of the Friedrich-Alexander Universität Erlangen-Nürnberg.
 1. Luciano Melodia (2023): [Notes on Simplicial and Singular Homology](https://karhunenloeve.github.io/TopoHom/main.pdf). Graduate Seminar on Topics in Topology, Friedrich-Alexander Universität Erlangen-Nürnberg.
 1. Luciano Melodia (2023): [Natürliche Transformationen, Äquivalenzen von Kategorien, darstellbare Funktoren und das Lemma von Yoneda](https://karhunenloeve.github.io/TopoSheaf/main.pdf). Graduate Seminar on Sheaf Theory, Friedrich-Alexander Universität Erlangen-Nürnberg.
