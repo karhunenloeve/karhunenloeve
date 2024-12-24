@@ -11,7 +11,7 @@
 1. Luciano Melodia (2023): [Natürliche Transformationen, Äquivalenzen von Kategorien, darstellbare Funktoren und das Lemma von Yoneda](https://karhunenloeve.github.io/TopoSheaf/main.pdf). Graduate Seminar on Sheaf Theory, Friedrich-Alexander Universität Erlangen-Nürnberg.
 
 ## 📔 Theses
-1. Luciano Melodia (2016): [Deep Learning Schätzung zur absorbierten Strahlungsdosis für die nuklearmedizinische Diagnostik](https://arxiv.org/abs/1805.09108). Master Thesis in Information Science supervised by Prof. Dr. rer. nat. Elmar Lang, Library of the University of Regensburg.
 1. Luciano Melodia (2024): [Algebraic and Topological Persistence](https://karhunenloeve.github.io/BscMath/main.pdf). Bachelor Thesis in Mathematics supervised by Prof. Ph.D. Kang Li, Library of the Friedrich-Alexander Universität Erlangen-Nürnberg.
+1. Luciano Melodia (2016): [Deep Learning Schätzung zur absorbierten Strahlungsdosis für die nuklearmedizinische Diagnostik](https://arxiv.org/abs/1805.09108). Master Thesis in Information Science supervised by Prof. Dr. rer. nat. Elmar Lang, Library of the University of Regensburg.
 
 ## 📗 [Curriculum vitae](https://karhunenloeve.github.io/CurriculumVitae/curriculumVitae.pdf)
