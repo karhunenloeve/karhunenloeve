@@ -13,5 +13,6 @@
 ## 📔 Theses
 1. Luciano Melodia (2024): [Algebraic and Topological Persistence](https://karhunenloeve.github.io/BscMath/main.pdf). Bachelor Thesis in Mathematics supervised by Prof. Dr. Kang Li, Library of the Friedrich-Alexander Universität Erlangen-Nürnberg.
 1. Luciano Melodia (2016): [Deep Learning Schätzung zur absorbierten Strahlungsdosis für die nuklearmedizinische Diagnostik](https://arxiv.org/abs/1805.09108). Master Thesis in Information Science supervised by Prof. Dr. Elmar Lang, Prof. Dr. Bernd Ludwig, Library of the University of Regensburg.
+1. Luciano Melodia (2015): Entwicklung einer Interpunktionsplattform mit linguistischen Moduln für das Information Retrieval. Bachelor Thesis in German Linguistics supervised by Prof. Dr. Paul Rössler, Library of the University of Regensburg.
 
 ## 📗 [Curriculum vitae](https://karhunenloeve.github.io/CurriculumVitae/curriculumVitae.pdf)
