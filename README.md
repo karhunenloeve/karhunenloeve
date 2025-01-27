@@ -1,5 +1,5 @@
 # 📗 [Curriculum vitae](https://karhunenloeve.github.io/CurriculumVitae/curriculumVitae.pdf)
-I’m Luciano Melodia, and if there’s a problem that needs solving—be it in mathematics, computer science, or teaching someone to survive Topology—I’m the person people call. Whether it’s bridging algebraic topology with cutting-edge machine learning or guiding students through the labyrinth of advanced mathematics, I thrive where complexity meets curiosity.
+I’m lume, and if there’s a problem that needs solving—be it in mathematics, computer science, or teaching someone to survive Topology—I’m the person people call. Whether it’s bridging algebraic topology with cutting-edge machine learning or guiding students through the labyrinth of advanced mathematics, I thrive where complexity meets curiosity.
 
 My professional playgrounds have ranged from research labs and lecture halls to industries that trust neural networks more than people. I’ve published on topics like persistent homology and neural network dimensionality in venues like Springer Lecture Notes, worked on signal classification that powers real-world systems, and even taught seminars that turn abstract theories into tools people can actually use. Python, TensorFlow, CUDA—these are not just tools; they’re languages I speak fluently, alongside German, English, and Italian.
 
