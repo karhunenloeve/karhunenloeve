@@ -17,7 +17,7 @@ I use some of the scientific social networking opportunities. If you'd like to r
 1. Luciano Melodia (2025): [Spectral Sequences - Leray-Serre Spectral Sequence](https://karhunenloeve.github.io/SpecSeq/main.pdf). Graduate Seminar on Spectral Theory in Mathematical Physics, Friedrich-Alexander Universität Erlangen-Nürnberg.
 1. Luciano Melodia (2024): [Beschränkte Fremdholmoperatoren und deren Fremdholmindex auf separablen Hilberträumen](https://karhunenloeve.github.io/FunkanaFredholm/main.pdf). Graduate Seminar on Spectral Flow in Functional Analysis, Friedrich-Alexander Universität Erlangen-Nürnberg.
 1. Luciano Melodia (2023): [Notes on Simplicial and Singular Homology](https://karhunenloeve.github.io/TopoHom/main.pdf). Graduate Seminar on Topics in Topology, Friedrich-Alexander Universität Erlangen-Nürnberg.
-1. Luciano Melodia (2023): [Natürliche Transformationen, Äquivalenzen von Kategorien, darstellbare Funktoren und das Lemma von Yoneda](https://karhunenloeve.github.io/TopoSheaf/main.pdf). Graduate Seminar on Sheaf Theory, Friedrich-Alexander Universität Erlangen-Nürnberg.
+1. Luciano Melodia (2022): [Natürliche Transformationen, Äquivalenzen von Kategorien, darstellbare Funktoren und das Lemma von Yoneda](https://karhunenloeve.github.io/TopoSheaf/main.pdf). Graduate Seminar on Sheaf Theory, Friedrich-Alexander Universität Erlangen-Nürnberg.
 
 # 📔 Theses
 1. Luciano Melodia (2024): [Algebraic and Topological Persistence](https://karhunenloeve.github.io/BscMath/main.pdf). Bachelor Thesis in Mathematics supervised by Prof. Dr. Kang Li, Library of the Friedrich-Alexander Universität Erlangen-Nürnberg.
