@@ -55,7 +55,7 @@ Additionally, I worked as a research assistant in Evolutionary Data Management u
 
 ## 🎓 Theses
 
-1. **Algebraic and Topological Persistence** ([PDF](https://karhunenloeve.github.io/BscMath/main.pdf))  
+1. **Algebraic and Topological Persistence** ([arXiv](https://arxiv.org/abs/2410.08323))  
    _B.Sc. Mathematics, FAU Erlangen-Nürnberg, Supervisor: Prof. Dr. Kang Li_
 2. **Deep Learning Schätzung zur absorbierten Strahlungsdosis für die Nuklearmedizin** ([arXiv](https://arxiv.org/abs/1805.09108))  
    _M.A. Information Science, Universität Regensburg, Supervisor: Prof. Dr. Elmar Lang_
