@@ -1,25 +1,67 @@
-# 📗 [Curriculum vitae](https://karhunenloeve.github.io/CurriculumVitae/curriculumVitae.pdf)
-I hold a Bachelor of Arts degree in German Philology from the [Universität Regensburg](https://www.uni-regensburg.de/), having written the thesis under the supervision of [Prof. Dr. phil. Paul Rössler](https://www.uni-regensburg.de/sprache-literatur-kultur/germanistik-sw-1/roessler/) and having studied in the scope of which German and Italian Philology, Media Informatics and Information Science as major fans. I have received my Master of Arts degree in Information Science, having written the [thesis](https://arxiv.org/pdf/1805.09108.pdf) at the [Institute of Biophysics and Physical Biochemistry](https://www.uni-regensburg.de/biologie-vorklinische-medizin/biochemie-2/research-1/index.html) under the supervision of [Prof. Dr. rer. nat. Elmar Lang](https://www.uni-regensburg.de/biologie-vorklinische-medizin/fakultaet/forschung/index.html). I worked in the field of Evolutionary Data Management as a research assistant under the supervision of [Prof. Dr.-Ing. Richard Lenz](https://www.cs6.tf.fau.de/person/richard-lenz/). I hold also a Bachelor of Science degree in Mathematics, having studied Computer Science in the scope of which as a minor fan, from [Friedrich-Alexander Universität Erlangen-Nürnberg](https://www.uni-regensburg.de/), having written the [thesis](https://arxiv.org/pdf/2410.08323) under the supervision of [Prof. Dr. Kang Li](https://sites.google.com/site/kanglishomepage/) at the [Chair for Lie Groups and Representation Theory](https://en.www.math.fau.de/lie-groups/scientific-staff/prof-dr-karl-hermann-neeb/). Currently, I pursue my Master of Science degree in Mathematics at the [Friedrich-Alexander Universität Erlangen-Nürnberg](https://math.fau.de).
+# 🎓 Luciano Melodia
 
-# :man: Social
-I use some of the scientific social networking opportunities. If you'd like to read my CV, please click the link in the repositorie's description or use [this one](https://karhunenloeve.github.io/CurriculumVitae/curriculumVitae.pdf). My papers are always uploaded to arXiv, thus I'll include it here as a schedule of my current and of course future work. The following list is conclusive:
+Welcome to my GitHub profile! Here you'll find my academic background, research contributions, and preprints. This serves as my professional landing page, structured for easy navigation.
 
-+ ORCID: [https://orcid.org/0000-0002-7584-7287](https://orcid.org/0000-0002-7584-7287)
-+ ArXiv: [https://arxiv.org/a/melodia_l_1.html](https://arxiv.org/a/melodia_l_1.html)
+🔗 **[Download my CV](https://karhunenloeve.github.io/CurriculumVitae/curriculumVitae.pdf)**  
 
-# 📃 Papers
-1. Luciano Melodia and Richard Lenz (2022): [Homological Time Series Analysis of Sensor Signals from Power Plants](https://arxiv.org/abs/2106.02493). Machine Learning for Irregular Time Series. Machine Learning and Principles and Practice of Knowledge Discovery in Databases. In Michael Kamp, Irena Koprinska, Adrien Bibal et al. (ed.): Communications in Computer and Information Science. Springer Nature, Switzerland.
-1. Luciano Melodia and Richard Lenz(2021): [Estimate of the Neural Network Dimension Using Algebraic Topology and Lie Theory](https://arxiv.org/abs/2004.02881). Image Mining. Theory and Applications VII. Pattern Recognition and Information Forensics. In Alberto Del Bimbo, Rita Cucchiara, Stan Sciaroff et al. (ed.): Lecture Notes in Computer Science. Springer Nature, Switzerland.
-1. Luciano Melodia and Richard Lenz (2020): [Persistent Homology as Stopping-Criterion for Voronoi Interpolation](https://arxiv.org/abs/1911.02922). Proceedings of the International Workshop on Combinatorial Image Analysis. In Tibor Lukić, Reneta Barneva, Valentin Brimkov et al. (ed.): Lecture Notes in Computer Science. Springer, Cham.
-1. Luciano Melodia (2015): [Zur Verwendung des Paradigmas brauchen mit und ohne zu mit Infinitiv](https://ling.auf.net/lingbuzz/004798). In Katešina Šichovà, Reinhard Krapp, Rössler Paul et al. (ed.): Standardvarietät des Deutschen – Fallbeispiele aus der sozialen Praxis, Logos, Berlin.
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=karhunenloeve&color=blue&style=flat-square) ![ORCID](https://img.shields.io/badge/ORCID-0000--0002--7584--7287-green?style=flat-square&logo=orcid) ![ArXiv](https://img.shields.io/badge/arXiv-Research-red?style=flat-square&logo=arxiv)
 
-# 📓 Preprints
-1. Luciano Melodia (2025): [Spectral Sequences - Leray-Serre Spectral Sequence](https://karhunenloeve.github.io/SpecSeq/main.pdf). Graduate Seminar on Spectral Theory in Mathematical Physics, Friedrich-Alexander Universität Erlangen-Nürnberg.
-1. Luciano Melodia (2024): [Beschränkte Fremdholmoperatoren und deren Fremdholmindex auf separablen Hilberträumen](https://karhunenloeve.github.io/FunkanaFredholm/main.pdf). Graduate Seminar on Spectral Flow in Functional Analysis, Friedrich-Alexander Universität Erlangen-Nürnberg.
-1. Luciano Melodia (2023): [Notes on Simplicial and Singular Homology](https://karhunenloeve.github.io/TopoHom/main.pdf). Graduate Seminar on Topics in Topology, Friedrich-Alexander Universität Erlangen-Nürnberg.
-1. Luciano Melodia (2022): [Natürliche Transformationen, Äquivalenzen von Kategorien, darstellbare Funktoren und das Lemma von Yoneda](https://karhunenloeve.github.io/TopoSheaf/main.pdf). Graduate Seminar on Sheaf Theory, Friedrich-Alexander Universität Erlangen-Nürnberg.
+---
 
-# 📔 Theses
-1. Luciano Melodia (2024): [Algebraic and Topological Persistence](https://karhunenloeve.github.io/BscMath/main.pdf). Bachelor Thesis in Mathematics supervised by Prof. Dr. Kang Li, Library of the Friedrich-Alexander Universität Erlangen-Nürnberg.
-1. Luciano Melodia (2017): [Deep Learning Schätzung zur absorbierten Strahlungsdosis für die nuklearmedizinische Diagnostik](https://arxiv.org/abs/1805.09108). Master Thesis in Information Science supervised by Prof. Dr. Elmar Lang, Prof. Dr. Bernd Ludwig, Library of the University of Regensburg.
-1. Luciano Melodia (2015): Entwicklung einer Interpunktionsplattform mit linguistischen Moduln für das Information Retrieval. Bachelor Thesis in German Linguistics supervised by Prof. Dr. Paul Rössler, Library of the University of Regensburg.
+## 📚 Academic Background
+
+I hold degrees in multiple fields:
+- **B.A. German Philology** – [Universität Regensburg](https://www.uni-regensburg.de/) (Thesis: Prof. Dr. Paul Rössler)
+- **M.A. Information Science** – Universität Regensburg (Thesis: [Deep Learning for Nuclear Medicine](https://arxiv.org/pdf/1805.09108.pdf), Prof. Dr. Elmar Lang)
+- **B.Sc. Mathematics** – [FAU Erlangen-Nürnberg](https://www.fau.de) (Thesis: [Algebraic & Topological Persistence](https://arxiv.org/pdf/2410.08323), Prof. Dr. Kang Li)
+- **M.Sc. Mathematics** (Ongoing) – [FAU Erlangen-Nürnberg](https://math.fau.de)
+
+Additionally, I worked as a research assistant in Evolutionary Data Management under **Prof. Dr.-Ing. Richard Lenz**.
+
+---
+
+## 🌍 Social & Research Profiles
+
+- **ORCID**: [0000-0002-7584-7287](https://orcid.org/0000-0002-7584-7287)
+- **arXiv**: [Research Publications](https://arxiv.org/a/melodia_l_1.html)
+
+---
+
+## 📄 Research Papers
+
+1. **Homological Time Series Analysis of Sensor Signals from Power Plants** ([arXiv](https://arxiv.org/abs/2106.02493))  
+   _Machine Learning for Irregular Time Series, Springer, Switzerland_
+2. **Estimate of Neural Network Dimension Using Algebraic Topology & Lie Theory** ([arXiv](https://arxiv.org/abs/2004.02881))  
+   _Lecture Notes in Computer Science, Springer, Switzerland_
+3. **Persistent Homology as Stopping-Criterion for Voronoi Interpolation** ([arXiv](https://arxiv.org/abs/1911.02922))  
+   _Proceedings of International Workshop on Combinatorial Image Analysis_
+4. **Zur Verwendung des Paradigmas 'brauchen' mit und ohne 'zu' mit Infinitiv** ([LingBuzz](https://ling.auf.net/lingbuzz/004798))  
+   _Logos, Berlin_
+
+---
+
+## 📜 Preprints
+
+1. **Spectral Sequences – Leray-Serre Spectral Sequence** ([PDF](https://karhunenloeve.github.io/SpecSeq/main.pdf))  
+   _Graduate Seminar on Spectral Theory in Mathematical Physics, FAU Erlangen-Nürnberg_
+2. **Beschränkte Fredholmoperatoren und deren Index auf separablen Hilberträumen** ([PDF](https://karhunenloeve.github.io/FunkanaFredholm/main.pdf))  
+   _Graduate Seminar on Spectral Flow in Functional Analysis, FAU Erlangen-Nürnberg_
+3. **Notes on Simplicial and Singular Homology** ([PDF](https://karhunenloeve.github.io/TopoHom/main.pdf))  
+   _Graduate Seminar on Topics in Topology, FAU Erlangen-Nürnberg_
+4. **Natürliche Transformationen, Äquivalenzen von Kategorien, das Lemma von Yoneda** ([PDF](https://karhunenloeve.github.io/TopoSheaf/main.pdf))  
+   _Graduate Seminar on Sheaf Theory, FAU Erlangen-Nürnberg_
+
+---
+
+## 🎓 Theses
+
+1. **Algebraic and Topological Persistence** ([PDF](https://karhunenloeve.github.io/BscMath/main.pdf))  
+   _B.Sc. Mathematics, FAU Erlangen-Nürnberg, Supervisor: Prof. Dr. Kang Li_
+2. **Deep Learning Schätzung zur absorbierten Strahlungsdosis für die Nuklearmedizin** ([arXiv](https://arxiv.org/abs/1805.09108))  
+   _M.A. Information Science, Universität Regensburg, Supervisor: Prof. Dr. Elmar Lang_
+3. **Interpunktionsplattform mit linguistischen Moduln für Information Retrieval**  
+   _B.A. German Linguistics, Universität Regensburg, Supervisor: Prof. Dr. Paul Rössler_
+
+---
+
+📩 Feel free to reach out via GitHub or check out my latest research on [arXiv](https://arxiv.org/a/melodia_l_1.html).
