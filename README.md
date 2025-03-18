@@ -29,12 +29,16 @@ Additionally, I worked as a research assistant in Evolutionary Data Management u
 
 ## 📄 Research Papers
 
+1. **Algebraic and Topological Persistence** ([arXiv](https://arxiv.org/abs/2410.08323))  
+   _Library of Friedrich-Alexander Universität Erlangen-Nürnberg, Public Library_
 1. **Homological Time Series Analysis of Sensor Signals from Power Plants** ([arXiv](https://arxiv.org/abs/2106.02493))  
    _Machine Learning for Irregular Time Series, Springer, Switzerland_
 2. **Estimate of Neural Network Dimension Using Algebraic Topology & Lie Theory** ([arXiv](https://arxiv.org/abs/2004.02881))  
    _Lecture Notes in Computer Science, Springer, Switzerland_
 3. **Persistent Homology as Stopping-Criterion for Voronoi Interpolation** ([arXiv](https://arxiv.org/abs/1911.02922))  
    _Proceedings of International Workshop on Combinatorial Image Analysis_
+3. **Deep Learning Schätzung zur absorbierten Strahlungsdosis für die Nuklearmedizin** ([arXiv](https://arxiv.org/abs/1805.09108))  
+   _Universität Regensburg, Public Library_
 4. **Zur Verwendung des Paradigmas 'brauchen' mit und ohne 'zu' mit Infinitiv** ([LingBuzz](https://ling.auf.net/lingbuzz/004798))  
    _Logos, Berlin_
 
