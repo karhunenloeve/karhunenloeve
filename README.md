@@ -1,6 +1,6 @@
 # 🎓 Luciano Melodia
 
-Welcome to my GitHub profile! Here you'll find my academic background, research contributions, and preprints. This serves as my professional landing page, structured for easy navigation.
+Welcome to my GitHub profile! Here you'll find my academic background, research contributions, and preprints.
 
 🔗 **[Download my CV](https://karhunenloeve.github.io/CurriculumVitae/curriculumVitae.pdf)**  
 
