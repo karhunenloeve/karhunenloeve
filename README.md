@@ -1,8 +1,6 @@
-# 🎓 Luciano Melodia
+# 🎓 [Luciano Melodia (CV)](https://karhunenloeve.github.io/CurriculumVitae/curriculumVitae.pdf)
 
 Welcome to my GitHub profile! Here you'll find my academic background, research contributions, and preprints.
-
-🔗 **[Download my CV](https://karhunenloeve.github.io/CurriculumVitae/curriculumVitae.pdf)**  
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=karhunenloeve&color=blue&style=flat-square) ![ORCID](https://img.shields.io/badge/ORCID-0000--0002--7584--7287-green?style=flat-square&logo=orcid) ![ArXiv](https://img.shields.io/badge/arXiv-Research-red?style=flat-square&logo=arxiv)
 
