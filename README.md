@@ -4,10 +4,8 @@ Welcome to my GitHub profile! Here you'll find my academic background, research 
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=karhunenloeve&color=blue&style=flat-square) ![ORCID](https://img.shields.io/badge/ORCID-0000--0002--7584--7287-green?style=flat-square&logo=orcid) ![ArXiv](https://img.shields.io/badge/arXiv-Research-red?style=flat-square&logo=arxiv)
 
-![GitHub Contributors](https://img.shields.io/github/contributors/karhunenloeve/karhunenloeve)
 ![Last Commit](https://img.shields.io/github/last-commit/karhunenloeve/karhunenloeve)
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
-![Code Size](https://img.shields.io/github/languages/code-size/karhunenloeve/karhunenloeve)
 ![Wakatime](https://img.shields.io/badge/Wakatime-Active-brightgreen)
 ![No Redundant Code](https://img.shields.io/badge/No_Redundant_Code-True-brightgreen)
 ![Code Quality](https://img.shields.io/badge/Code_Quality-High-brightgreen)
