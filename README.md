@@ -7,7 +7,6 @@ Welcome to my GitHub profile! Here you'll find my academic background, research 
 ![GitHub Contributors](https://img.shields.io/github/contributors/karhunenloeve/karhunenloeve)
 ![Last Commit](https://img.shields.io/github/last-commit/karhunenloeve/karhunenloeve)
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
-![GitHub Actions](https://img.shields.io/github/workflow/status/karhunenloeve/karhunenloeve/CI)
 ![Code Size](https://img.shields.io/github/languages/code-size/karhunenloeve/karhunenloeve)
 ![Wakatime](https://img.shields.io/badge/Wakatime-Active-brightgreen)
 ![No Redundant Code](https://img.shields.io/badge/No_Redundant_Code-True-brightgreen)
