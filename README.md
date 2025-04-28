@@ -50,7 +50,7 @@ Additionally, I worked as a research assistant in Evolutionary Data Management u
 
 ## 📜 Preprints
 
-1. **Hochschild (Co)homologie** ([PDF](https://karhunenloeve.github.io/Mathematical-Notes-2/Hochschild__Ko_homologie.pdf))
+1. **Hochschild (Co)homologie** ([PDF](https://karhunenloeve.github.io/Mathematical-Notes-2/Hochschild__Ko_homologie.pdf))  
    _Graduate Seminar on Homological Algebra in Representation Theory, FAU Erlangen-Nürnberg_
 1. **Spectral Sequences – Leray-Serre Spectral Sequence** ([PDF](https://karhunenloeve.github.io/SpecSeq/main.pdf))  
    _Graduate Seminar on Spectral Theory in Mathematical Physics, FAU Erlangen-Nürnberg_
