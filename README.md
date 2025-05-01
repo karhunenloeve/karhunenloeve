@@ -48,7 +48,7 @@ Additionally, I worked as a research assistant in Evolutionary Data Management u
 
 ---
 
-## 📜 Preprints
+## 📜 Notes
 
 1. **Hochschild(ko)homologie** ([PDF](https://karhunenloeve.github.io/Mathematical-Notes-2/Hochschild__Ko_homologie.pdf))  
    _Graduate Seminar on Homological Algebra in Representation Theory, FAU Erlangen-Nürnberg_
