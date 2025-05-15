@@ -15,7 +15,7 @@ Welcome to my GitHub profile! Here you'll find my academic background, research 
 ## 📚 Academic Background
 
 I hold degrees in multiple fields:
-- **M.Sc. Mathematics** (Ongoing) – [FAU Erlangen-Nürnberg](https://math.fau.de)
+- **M.Sc. Mathematics** – [FAU Erlangen-Nürnberg](https://math.fau.de) (Thesis: Groupoid Homology, Prof. Dr. Kang Li)
 - **B.Sc. Mathematics** – [FAU Erlangen-Nürnberg](https://www.fau.de) (Thesis: [Algebraic and Topological Persistence](https://arxiv.org/pdf/2410.08323), Prof. Dr. Kang Li)
 - **M.A. Information Science** – [Universität Regensburg](https://www.uni-regensburg.de/) (Thesis: [Deep Learning for Nuclear Medicine](https://arxiv.org/pdf/1805.09108.pdf), Prof. Dr. Elmar Lang)
 - **B.A. German Philology** – [Universität Regensburg](https://www.uni-regensburg.de/) (Thesis: Punctuation and Information Retrieval, Prof. Dr. Paul Rössler)
