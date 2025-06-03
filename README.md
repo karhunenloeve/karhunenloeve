@@ -33,6 +33,8 @@ Additionally, I worked as a research assistant in Evolutionary Data Management u
 
 ## 📄 Research Papers
 
+1. **Universal Coefficients for Ètale Groupoid Homology** ([arXiv]())  
+   _Library of Friedrich-Alexander Universität Erlangen-Nürnberg, Public Library_
 1. **Algebraic and Topological Persistence** ([arXiv](https://arxiv.org/abs/2410.08323))  
    _Library of Friedrich-Alexander Universität Erlangen-Nürnberg, Public Library_
 1. **Homological Time Series Analysis of Sensor Signals from Power Plants** ([arXiv](https://arxiv.org/abs/2106.02493))  
@@ -50,6 +52,8 @@ Additionally, I worked as a research assistant in Evolutionary Data Management u
 
 ## 📜 Notes
 
+1. **Kettenhomotopien** ([PDF](https://karhunenloeve.github.io/Mathematical-Notes-2/chainhomotopies.pdf))  
+   _Graduate Seminar on Homological Algebra in Representation Theory, FAU Erlangen-Nürnberg_
 1. **Hochschild(ko)homologie** ([PDF](https://karhunenloeve.github.io/Mathematical-Notes-2/Hochschild__Ko_homologie.pdf))  
    _Graduate Seminar on Homological Algebra in Representation Theory, FAU Erlangen-Nürnberg_
 1. **Spectral Sequences – Leray-Serre Spectral Sequence** ([PDF](https://karhunenloeve.github.io/SpecSeq/main.pdf))  
