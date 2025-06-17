@@ -1,5 +1,4 @@
-# 🎓 [Luciano Melodia (CV)](https://karhunenloeve.github.io/CurriculumVitae/curriculumVitae.pdf)
-
+# 🎓 Hello World!
 Welcome to my GitHub profile! Here you'll find my academic background, research contributions, and preprints.
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=karhunenloeve&color=blue&style=flat-square) ![ORCID](https://img.shields.io/badge/ORCID-0000--0002--7584--7287-green?style=flat-square&logo=orcid) ![ArXiv](https://img.shields.io/badge/arXiv-Research-red?style=flat-square&logo=arxiv)
@@ -31,12 +30,21 @@ Additionally, I worked as a research assistant in Evolutionary Data Management u
 
 ---
 
-## 📄 Research Papers
+## 🎓 Theses
 
 1. **Universal Coefficients for Ètale Groupoid Homology** ([arXiv]())  
-   _Library of Friedrich-Alexander Universität Erlangen-Nürnberg, Public Library_
-1. **Algebraic and Topological Persistence** ([arXiv](https://arxiv.org/abs/2410.08323))  
-   _Library of Friedrich-Alexander Universität Erlangen-Nürnberg, Public Library_
+   _M.Sc. Mathematics, FAU Erlangen-Nürnberg, Supervisor: Prof. Dr. Kang Li_
+2. **Algebraic and Topological Persistence** ([arXiv](https://arxiv.org/abs/2410.08323))  
+   _B.Sc. Mathematics, FAU Erlangen-Nürnberg, Supervisor: Prof. Dr. Kang Li_
+3. **Deep Learning Schätzung zur absorbierten Strahlungsdosis für die Nuklearmedizin** ([arXiv](https://arxiv.org/abs/1805.09108))  
+   _M.A. Information Science, Universität Regensburg, Supervisor: Prof. Dr. Elmar Lang_
+4. **Interpunktionsplattform mit linguistischen Moduln für Information Retrieval**  
+   _B.A. German Linguistics, Universität Regensburg, Supervisor: Prof. Dr. Paul Rössler_
+
+---
+
+## 📄 Research Papers
+
 1. **Homological Time Series Analysis of Sensor Signals from Power Plants** ([arXiv](https://arxiv.org/abs/2106.02493))  
    _Machine Learning for Irregular Time Series, Springer, Switzerland_
 2. **Estimate of Neural Network Dimension Using Algebraic Topology & Lie Theory** ([arXiv](https://arxiv.org/abs/2004.02881))  
@@ -64,19 +72,6 @@ Additionally, I worked as a research assistant in Evolutionary Data Management u
    _Graduate Seminar on Topics in Topology, FAU Erlangen-Nürnberg_
 4. **Natürliche Transformationen, Äquivalenzen von Kategorien, das Lemma von Yoneda** ([PDF](https://karhunenloeve.github.io/TopoSheaf/main.pdf))  
    _Graduate Seminar on Sheaf Theory, FAU Erlangen-Nürnberg_
-
----
-
-## 🎓 Theses
-
-1. **Universal Coefficients for Ètale Groupoid Homology** ([arXiv]())  
-   _M.Sc. Mathematics, FAU Erlangen-Nürnberg, Supervisor: Prof. Dr. Kang Li_
-2. **Algebraic and Topological Persistence** ([arXiv](https://arxiv.org/abs/2410.08323))  
-   _B.Sc. Mathematics, FAU Erlangen-Nürnberg, Supervisor: Prof. Dr. Kang Li_
-3. **Deep Learning Schätzung zur absorbierten Strahlungsdosis für die Nuklearmedizin** ([arXiv](https://arxiv.org/abs/1805.09108))  
-   _M.A. Information Science, Universität Regensburg, Supervisor: Prof. Dr. Elmar Lang_
-4. **Interpunktionsplattform mit linguistischen Moduln für Information Retrieval**  
-   _B.A. German Linguistics, Universität Regensburg, Supervisor: Prof. Dr. Paul Rössler_
 
 ---
 
