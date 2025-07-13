@@ -27,6 +27,7 @@ Additionally, I worked as a research assistant in Evolutionary Data Management u
 
 - **ORCID**: [0000-0002-7584-7287](https://orcid.org/0000-0002-7584-7287)
 - **arXiv**: [Research Publications](https://arxiv.org/a/melodia_l_1.html)
+- **CV**: [Curriculum Vitae](https://karhunenloeve.github.io/CurriculumVitae/curriculumVitae.pdf)
 
 ---
 
