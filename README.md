@@ -60,6 +60,8 @@ Additionally, I worked as a research assistant in Evolutionary Data Management u
 
 ## 📜 Notes
 
+1. **Simpliziale Objekte aus Komonoiden in monoidalen Kategorien** ([PDF](https://karhunenloeve.github.io/Mathematical-Notes-2/simplicialobjects.pdf))  
+   _Graduate Seminar on Homological Algebra in Representation Theory, FAU Erlangen-Nürnberg_
 1. **Kettenhomotopien** ([PDF](https://karhunenloeve.github.io/Mathematical-Notes-2/chainhomotopies.pdf))  
    _Graduate Seminar on Homological Algebra in Representation Theory, FAU Erlangen-Nürnberg_
 1. **Hochschild(ko)homologie** ([PDF](https://karhunenloeve.github.io/Mathematical-Notes-2/Hochschild__Ko_homologie.pdf))  
